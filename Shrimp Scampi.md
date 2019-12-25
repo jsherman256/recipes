@@ -29,7 +29,6 @@ Adapted from [Taste of Home](https://www.tasteofhome.com/recipes/shrimp-scampi/)
 ### Directions
 1. Preheat oven to 425°F
 1. Measure the breadcrumbs onto a parchment paper-lined sheet pan and toast in the oven for 1-2 minutes. They should be a deep brown color
-
 1. Set oven to broil
 1. Mix lemon juice, oregano and black pepper together in a measuring cup or similar vessel
 1. Measure out parmesan cheese
