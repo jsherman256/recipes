@@ -15,9 +15,13 @@ Serves 6
 
 ### Directions
 1. Preheat oven to 425° F
-1. Remove any remaining stems from the broccoli. Split florets into bite-sized pieces. Rinse clean and shake dry
+1. Trim any remaining stems from the broccoli. Split florets into bite-sized pieces. Rinse clean and shake dry
 1. Gently melt the butter and place in a large mixing bowl
 1. Add the broccoli and garlic-infused olive oil to the bowl with the butter. Toss well to coat
 1. Sprinkle kosher salt and toss well to distribute evenly
 1. Line the baking sheets with parchment paper and place the broccoli on them. Make sure to not crowd the pans to get the best roast
 1. Roast in the middle rack of the oven for 15-30 minutes, depending on how roasted you like your broccoli
+1. Remove broccoli from oven and toss with the splash of lemon juice. Serve immediately
+
+### FODMAP Notes
+Each serving contains roughly 75 grams of broccoli heads which is low FODMAP. At 3 servings, this recipe contains moderate (amber) levels of fructose. At 4 servings, this recipe contains high (red) levels of fructose.
