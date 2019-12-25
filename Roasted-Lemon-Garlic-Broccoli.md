@@ -11,7 +11,7 @@ Serves 6
 * 1/2 tsp kosher salt
 * splash of lemon juice
 * parchment paper
-* sheet pans (2 half-sheets)
+* 2 half-sheet baking pans
 
 ### Directions
 1. Preheat oven to 425° F
