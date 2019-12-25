@@ -1,6 +1,6 @@
 ## Shrimp Scampi
 
-Serves 5
+Serves 5  
 15 minutes active time  
 45 minutes total  
 
