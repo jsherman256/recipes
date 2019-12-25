@@ -1,5 +1,9 @@
 ## Roasted Lemon Garlic Broccoli
 
+Serves 6
+10 minutes active time
+40 minutes total
+
 ### Ingredients
 * 1 pound broccoli florets
 * 3 Tbsp butter
