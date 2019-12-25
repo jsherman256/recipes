@@ -14,7 +14,7 @@ Adapted from [Taste of Home](https://www.tasteofhome.com/recipes/shrimp-scampi/)
 * 2 Tbsp garlic-infused olive oil
 * 2 Tbsp olive oil
 * 1/2 cup grated or shredded parmesan cheese
-* 1/4 cup panko breadcrumbs
+* 1/4 cup Trader Joe's Japanese-style panko breadcrumbs
 * 1/4 cup lemon juice
 * 1/2 tsp ground black pepper
 * 1/4 tsp oregano
@@ -39,3 +39,6 @@ Adapted from [Taste of Home](https://www.tasteofhome.com/recipes/shrimp-scampi/)
 1. Top shrimp with toasted panko breadcrumbs and parmesan cheese
 1. Place under broiler until the cheese is melted and the breadcrumbs are crispy
 1. Serve immediately. If serving with rice pasta, add the lemon butter pan sauce to the pasta for extra flavor
+
+### FODMAP Notes
+At one serving, this recipe is low FODMAP, assuming Trader Joe's brand panko breadcrumbs are used. If another brand is used, FODMAP content may vary. In larger quantities, this recipe becomes high (red) in both fructan and fructose from the wheat in the breadcrumbs.
