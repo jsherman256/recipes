@@ -1,6 +1,6 @@
 ## Spanish Rice
 
-Serves 8
+Serves 8  
 5 minutes active time  
 50 minutes total  
 
