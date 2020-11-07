@@ -1,7 +1,7 @@
 ## Spanish Rice
 
 Serves 8  
-5 minutes active time  
+10 minutes active time  
 50 minutes total  
 
 ### FODMAP Notes
