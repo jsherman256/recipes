@@ -18,3 +18,5 @@ Serves 4
 1. Add orzo/butter/garlic salt mixture to the skillet and stir, until the butter is melted, the garlic salt is incorporated and the orzo is toasted
 1. Deglaze with wine and let alcohol cook off
 1. Add water/lemon mixture, broccoli and browned chicken to the skillet
+
+Adapted from [NY Times Cooking](https://cooking.nytimes.com/recipes/1021521-skillet-chicken-thighs-with-broccoli-and-orzo)
