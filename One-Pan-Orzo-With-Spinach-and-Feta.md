@@ -2,18 +2,23 @@
 
 ### Ingredients
 
-* 14g (1 Tbsp) garlic-infused olive oil
-* 225g (8oz) spinach
-* 1/2 tsp kosher salt
-
-* 1 cup orzo  
-* 14g (1 Tbsp) unsalted butter
-* 350 mL water
+#### Seasoning
 * 1 tsp low-FODMAP garlic salt
 * 1/2 tsp dried chives
 * 1 Tbsp dried dill
 * 1/4 tsp dried lemon zest
 
+#### Orzo
+* 1 cup orzo  
+* 14g (1 Tbsp) unsalted butter
+* 350 mL water
+
+#### Spinach
+* 14g (1 Tbsp) garlic-infused olive oil
+* 225g (8oz) spinach
+* 1/2 tsp kosher salt
+
+#### Cheese
 * 115g (4oz) feta
 
 ### Prep
