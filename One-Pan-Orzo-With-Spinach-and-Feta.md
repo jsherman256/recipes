@@ -31,5 +31,6 @@
 
 ### Cook
 1. Heat garlic-infused olive oil in skillet. Add spinach and kosher salt. Cook until spinach is wilted. Remove from skillet and set aside, allowing excess liquid to drain
-1. Add butter, orzo, water, and seasoning mixture to the skillet. Bring to a boil and then reduce to a simmer and cover. Cook according to the orzo instructions
+1. Add orzo to the skillet and toast lightly in the oil. Make sure to stir frequently to avoid scorching it.
+1. Add butter, water, and seasoning mixture to the skillet. Bring to a boil and then reduce to a simmer and cover. Cook according to the orzo instructions
 1. Add in wilted spinach and feta and mix well. Set to low and cover. Remove from heat when the spinach and feta are heated
