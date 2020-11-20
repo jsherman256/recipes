@@ -21,7 +21,7 @@ Serves 8
 
 ### Directions
 1. Mix tomato paste with garlic salt, dried cilantro, kosher salt, cumin, chives, black pepper. Add 5oz water to the mixture and set aside
-1. Measure 1000 mL (4 cups) of water and set aside
+1. Measure 850 mL (3.5 cups) of water and set aside
 1. Add canola oil and garlic-infused olive oil to a large skillet or pot. Heat on medium. Add rice and toast
 1. Once rice is toasted, add the tomato paste mixture and the water. Stir and raise heat to high until it boils. Reduce to low and cover. Simmer until rice is cooked, about 30-40 minutes
 
