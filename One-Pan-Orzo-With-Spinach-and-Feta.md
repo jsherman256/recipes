@@ -5,8 +5,9 @@
 #### Seasoning
 * 1 tsp low-FODMAP garlic salt
 * 1/2 tsp dried chives
-* 1 Tbsp dried dill
+* 1/2 tsp dried dill
 * 1/4 tsp dried lemon zest
+* 1/4 tsp kosher salt
 
 #### Orzo
 * 1 cup orzo  
@@ -14,9 +15,8 @@
 * 350 mL water
 
 #### Spinach
-* 14g (1 Tbsp) garlic-infused olive oil
+* 28g (2 Tbsp) garlic-infused olive oil
 * 225g (8oz) spinach
-* 1/2 tsp kosher salt
 
 #### Cheese
 * 115g (4oz) feta
@@ -30,7 +30,7 @@
 1. Add garlic-infused olive oil to skillet
 
 ### Cook
-1. Heat garlic-infused olive oil in skillet. Add spinach and kosher salt. Cook until spinach is wilted. Remove from skillet and set aside, allowing excess liquid to drain
-1. Add orzo to the skillet and toast lightly in the oil. Make sure to stir frequently to avoid scorching it.
-1. Add butter, water, and seasoning mixture to the skillet. Bring to a boil and then reduce to a simmer and cover. Cook according to the orzo instructions
+1. Heat garlic-infused olive oil in skillet. Add spinach and cook until wilted. Remove from skillet and set aside, allowing excess liquid to drain
+1. Add butter and orzo to the skillet and toast lightly in the oil. Make sure to stir frequently to avoid scorching it.
+1. Add water and seasoning mixture to the skillet. Bring to a boil and then reduce to a simmer and cover. Cook according to the orzo instructions
 1. Add in wilted spinach and feta and mix well. Set to low and cover. Remove from heat when the spinach and feta are heated
