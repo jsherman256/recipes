@@ -2,7 +2,7 @@
 
 Serves 5  
 
-Adapted from Food Lab
+Adapted from [Food Lab](https://www.seriouseats.com/recipes/2015/07/the-food-lab-southern-fried-chicken-recipe.html)
 
 ### Ingredients
 #### Spice mixture
