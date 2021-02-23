@@ -15,6 +15,6 @@ Adapted from [New York Times Cooking](https://cooking.nytimes.com/recipes/102101
 
 ### For the tomatoes
 
-* __g cherry tomatoes, halved
+* ~300g cherry tomatoes, halved
 * 1/2 tsp low FODMAP garlic salt
 * 14g (1 Tbsp) garlic-infused olive oil
