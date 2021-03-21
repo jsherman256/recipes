@@ -8,12 +8,12 @@ Serves 8
 * 1/2 tsp low FODMAP onion salt
 * 1/2 tsp dried lemon zest
 * 1/4 tsp dried chives
-* 1/4 tsp black pepper
+* 1/2 tsp black pepper
 
 ## Sauce
 * 130g (~ 10 Tbsp) mayonnaise
 * 4 oz diced bread-and-butter pickles
-* 1 tsp lemon juice
+* 1 tsp lemon juice (optional)
 
 ## Directions
 1. Preheat sous vide circulator to 150° F
