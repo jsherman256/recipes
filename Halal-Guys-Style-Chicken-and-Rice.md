@@ -10,7 +10,6 @@
 * 1 tsp low FODMAP garlic salt
 * 1/4 tsp ground black pepper
 * 56g (1/4 cup) olive oil
-
 * ~1.5 lb chicken thighs
 
 ### Directions
@@ -18,11 +17,9 @@
 1. Mix all ingredients except chicken. Blend until coriander is mostly broken up and well-combined
 1. Put the chicken, along with half the marinade, into a sous vide safe bag, and cook for 2 - 4 hours
 1. Set aside the other half of the marinade and work on the white sauce while the chicken cooks
-
 1. Once the chicken is cooked, remove from bag and reserve the juices and marinade. Chill chicken in the fridge
 1. Preheat a skillet or dutch oven in the oven at 550° F
 1. Once the chicken has cooled and the oven is hot, sear the chicken thighs in the skillet, about 4 minutes per side. Remember, they're already cooked
-
 1. Allow the thighs to rest for about 5 minutes and then roughly chop. Toss with the reserved marinade
 
 
