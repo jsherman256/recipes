@@ -1,5 +1,6 @@
 # Halal Guys-style Chicken and Rice
 
+
 ## Chicken and Marinade
 
 ### Ingredients
@@ -24,6 +25,7 @@
 
 1. Allow the thighs to rest for about 5 minutes and then roughly chop. Toss with the reserved marinade
 
+
 ## White Sauce
 
 ### Ingredients
@@ -36,6 +38,7 @@
 
 ### Directions
 1. Mix all ingredients. Season to taste
+
 
 ## Rice
 
