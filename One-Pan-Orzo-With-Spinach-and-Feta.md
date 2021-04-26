@@ -10,7 +10,7 @@
 * 1/4 tsp kosher salt
 
 #### Orzo
-* 1 cup orzo  
+* 165g (1 cup) orzo  
 * 14g (1 Tbsp) unsalted butter
 * 350 mL water
 
