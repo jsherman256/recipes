@@ -3,7 +3,7 @@
 Serves 4
 
 ## Ingredients
-* 1 cup dry couscous
+* 3 oz (1 cup) dry couscous
 * 2 oz (4 Tbsp) unsalted butter
 * 1 tsp low FODMAP garlic salt
 * 1/2 Tbsp dried chives
