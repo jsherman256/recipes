@@ -4,19 +4,18 @@
 
 #### Seasoning
 * 1 tsp low-FODMAP garlic salt
-* 1/2 tsp dried chives
-* 1/2 tsp dried dill
-* 1/4 tsp dried lemon zest
-* 1/4 tsp kosher salt
+* 1 tsp dried chives
+* 1/2 tsp dried lemon zest
+* 1/4 tsp dried dill
 
 #### Orzo
 * 165g (1 cup) orzo  
 * 14g (1 Tbsp) unsalted butter
-* 350 mL water
+* 300 mL (1 cup, 4 Tbsp) water
 
 #### Spinach
 * 28g (2 Tbsp) garlic-infused olive oil
-* 225g (8oz) spinach
+* 225g (5oz) spinach
 
 #### Cheese
 * 115g (4oz) feta
