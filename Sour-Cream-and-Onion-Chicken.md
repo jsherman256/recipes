@@ -16,6 +16,7 @@ Serves 4
 * 1 tsp low FODMAP onion salt
 * 1/4 tsp black pepper
 
+
 * canola oil, for frying
 
 ## Directions
