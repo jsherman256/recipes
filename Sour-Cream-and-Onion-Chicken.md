@@ -3,12 +3,19 @@
 Serves 4
 
 ## Ingredients
+
+### Marinade
 * 1.5lb boneless, skinless chicken thigh
 * 120g (1/2 cup) sour cream
 * 1 tsp low FODMAP garlic salt
+* 1/8 tsp kosher salt
+* 1/4 tsp black pepper
+
+### Breading
+* 6oz panko breadcrumbs
 * 1 tsp low FODMAP onion salt
 * 1/4 tsp black pepper
-* 6oz panko breadcrumbs
+
 * canola oil, for frying
 
 ## Directions
