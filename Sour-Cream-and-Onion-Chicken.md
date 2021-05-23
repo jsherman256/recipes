@@ -15,8 +15,6 @@ Serves 4
 * 6oz panko breadcrumbs
 * 1 tsp low FODMAP onion salt
 * 1/4 tsp black pepper
-
-
 * canola oil, for frying
 
 ## Directions
